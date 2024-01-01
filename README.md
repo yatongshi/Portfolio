@@ -1,5 +1,8 @@
 # Data Scientist
 
+### Technical Skills
+Python, xxx
+
 ### Education
 Economics, Capitalism Studies, BS. 
 
@@ -9,4 +12,4 @@ write job name + place
 - project 2
 
 ### Projects
-**project name here**
+hi
