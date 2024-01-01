@@ -1,4 +1,4 @@
-# Yatong Shi, Data Scientist
+# Data Scientist
 
 ### Education
 Economics, Capitalism Studies, BS. 
