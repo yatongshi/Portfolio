@@ -1,15 +1,18 @@
-# Data Scientist
+# Data Analytics Portfolio
 
-### Technical Skills
-Python, xxx
+## About Me
+education
 
-### Education
-Economics, Capitalism Studies, BS. 
+what am i doing now/where do i want to go
 
-### Work Experience 
-write job name + place 
-- project 1
-- project 2
+## Work Experience
+enter here
 
-### Projects
-hi
+## Projects
+
+#### 1. [PBX](enter page url here)
+* describe here
+* another
+
+![](insert.png website url here for photos)
+<br/>
