@@ -13,7 +13,7 @@ enter here
 #### 1. [TVX]
 *OVERVIEW*
 
-![TVX-Research](TVX-Research/Google_Analytics_TVX.ipynb)
+![TVX-Research](Google_Analytics_TVX.ipynb)
 
 #### 2. second project here
 *overview*
