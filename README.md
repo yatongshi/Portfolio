@@ -10,7 +10,7 @@ enter here
 
 ## Projects
 
-#### 1. [TVX]([(https://github.com/yatongshi/TVX-Research/blob/main/README.md])
+#### 1. [TVX][/TVX-Research/blob/main/README.md]
 *OVERVIEW*
 
 ![TVX-Research](README.md)
