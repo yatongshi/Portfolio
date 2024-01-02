@@ -10,9 +10,12 @@ enter here
 
 ## Projects
 
-#### 1. [PBX](enter page url here)
-* describe here
-* another
+#### 1. [TVX](Google_Analytics_TVX.ipynb)
+*OVERVIEW*
+![TVX-Research](README.md)
 
-![](insert.png website url here for photos)
+#### 2. second project here
+*overview*
+link to repo
+
 <br/>
