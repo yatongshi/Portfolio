@@ -10,10 +10,10 @@ enter here
 
 ## Projects
 
-#### 1. [TVX][/TVX-Research/blob/main/README.md]
+#### 1. [TVX]
 *OVERVIEW*
 
-![TVX-Research](README.md)
+![TVX-Research](Google_Analytics_TVX.ipynb)
 
 #### 2. second project here
 *overview*
