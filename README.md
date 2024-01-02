@@ -12,6 +12,14 @@ enter here
 
 #### 1. [TVX](Google_Analytics_TVX.ipynb)
 *OVERVIEW*
+{
+  ...
+  "TVX-Research": {
+    "url": "[https://github.com/yatongshi/TVX-Research/blob/main/README.md]",
+    "type": "git"
+  }
+  ...
+}
 ![TVX-Research](README.md)
 
 #### 2. second project here
