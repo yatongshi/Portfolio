@@ -4,7 +4,7 @@
 Hello! I am a data analyst where I apply my skills in Python, Tableau, and Google Analytics to provide data-driven insights and solutions for the cleaning equipment industry, specifically with Nanjing TVX Cleaning Equipment. I have also done exploratory data work with IBM and Netflix. I am passionate about the intersection of storytelling and data, which you can explore in my work below!
 
 ## Education
-xxx
+Brandeis University, BA. Economics, BA. Capitalism Studies
 
 ## Work Experience
 Nanjing TVX Cleaning Equipment Co.,Ltd 05/2023 – present Data Analyst Boston, US
