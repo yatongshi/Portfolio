@@ -15,8 +15,7 @@ Research Assistant at Marine Policy Center, Woods Hole Oceanographic Institute 0
 ## Projects
 
 #### 1. TVX Research 
-<a href="https://yatongshi.github.io/Portfolio/TVX%20Research.html"> Something </a>
-https://yatongshi.github.io/Portfolio/TVX%20Research.html
+<a href="https://yatongshi.github.io/Portfolio/TVX%20Research.html"> TVX Research Project </a>
 
 #### 2. Kaggle-Exploratory-for-TVX-product-data Public
 *OVERVIEW*
