@@ -2,7 +2,7 @@
 Main Question: how do we attract more people to try out TVX's cleaning products?
 * Using Google Analytics, I examined users by country, engagement rate, time, and conversion to from visit to customer.
 * (add another line of description here)
-Here is a link to the full project: https://github.com/yatongshi/TVX-Research/tree/main </br>
+Here is a link to the full project: https://github.com/yatongshi/TVX-Research/tree/main <br />
   
 ### Results of Report
 From this research I derived new key findings that can lead to higher engagement rate, return and revenue for the company. <br />
