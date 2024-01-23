@@ -7,10 +7,10 @@ Hello! I am a data analyst where I apply my skills in Python, Tableau, and Googl
 Brandeis University; BA. Economics, BA. Capitalism Studies
 
 ## Work Experience
-Nanjing TVX Cleaning Equipment Co.,Ltd 05/2023 – present Data Analyst Boston, US </br>
-Natixis Investment Managers 06/2021 – 08/2021 Marketing Summer Analyst Boston, US </br>
-National Public Radio 09/2021 – 05/2022 Editorial and Recruitment Assistant Remote, US </br>
-Research Assistant at Marine Policy Center, Woods Hole Oceanographic Institute 08/2023 – 12/2023 </br>
+Nanjing TVX Cleaning Equipment Co.,Ltd 05/2023 – present Data Analyst Boston, US 
+Natixis Investment Managers 06/2021 – 08/2021 Marketing Summer Analyst Boston, US
+National Public Radio 09/2021 – 05/2022 Editorial and Recruitment Assistant Remote, US 
+Research Assistant at Marine Policy Center, Woods Hole Oceanographic Institute 08/2023 – 12/2023 
 
 ## Projects
 
