@@ -5,7 +5,7 @@ Main Question: how do we attract more people to try out TVX's cleaning products?
 Here is a link to the full project: https://github.com/yatongshi/TVX-Research/tree/main </br>
   
 ### Results of Report
-From this research I derived new key findings that can lead to higher engagement rate, return and revenue for the company. </br>
+From this research I derived new key findings that can lead to higher engagement rate, return and revenue for the company. <br />
 
 _These suggestions include:_
 * Creating a Referral Program
