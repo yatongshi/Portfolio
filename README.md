@@ -23,6 +23,6 @@ Research Assistant at Marine Policy Center, Woods Hole Oceanographic Institute 0
 #### 3. IBM HR Analytics Employee Attrition and Performance
 * overview
 
-#### 4. <a href="https://yatongshi.github.io/Portfolio/Netlfix%20Research.html"> Explorative Data Analysis of Netflix Content </a>
+#### 4. <a href="https://yatongshi.github.io/Portfolio/Netflix-Research.html"> Explorative Data Analysis of Netflix Content </a>
 * overview
 <br/>
