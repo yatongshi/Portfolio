@@ -25,6 +25,6 @@ Research Assistant at Marine Policy Center, Woods Hole Oceanographic Institute 0
 link to repo
 
 #### 4. Explorative-Data-Analysis-of-Netflix-Contents Public
-*OVERVIEW*
+<a href="https://yatongshi.github.io/Portfolio/TVX%20Research.html"> Netflix Exploratory </a>
 
 <br/>
