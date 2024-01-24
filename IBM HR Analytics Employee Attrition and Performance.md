@@ -1,5 +1,5 @@
-# IBM HR Analytics Employee Attrition and Performance.md
-### Here is a link to the full project code and repository: <a href="https://github.com/yatongshi/IBM-HR-Analytics-Employee-Attrition-and-Performance/tree/main"> IBM HR Analytics Employee Attrition and Performance </a>
+# IBM HR Analytics Employee Attrition and Prediction.md
+### Here is a link to the full project code and repository: <a href="https://github.com/yatongshi/IBM-HR-Analytics-Employee-Attrition-and-Performance/tree/main"> IBM HR Analytics Employee Attrition and Prediction </a>
 
 _Main Directive: What Factors Influence Employee Attrition Rate at IBM?_
 * xxx
