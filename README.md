@@ -17,14 +17,14 @@ Research Assistant at Marine Policy Center, Woods Hole Oceanographic Institute 0
 #### 1. TVX Research 
 <a href="https://yatongshi.github.io/Portfolio/TVX%20Research.html"> TVX Research Project </a>
 
-#### 2. Kaggle-Exploratory-for-TVX-product-data Public
+#### 2. Kaggle Exploratory for TVX product data 
 *OVERVIEW*
 
 #### 3. IBM HR Analytics Employee Attrition and Performance
 *overview*
 link to repo
 
-#### 4. Explorative-Data-Analysis-of-Netflix-Contents Public
+#### 4. Explorative Data Analysis of Netflix Content
 <a href="https://yatongshi.github.io/Portfolio/TVX%20Research.html"> Netflix Exploratory </a>
 
 <br/>
