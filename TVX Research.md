@@ -1,5 +1,5 @@
 # TVX-Research
-# Here is a link to the full project code and repository: <a href="https://github.com/yatongshi/TVX-Research/tree/main"> TVX </a> 
+_Here is a link to the full project code and repository: <a href="https://github.com/yatongshi/TVX-Research/tree/main"> TVX </a>_
 
 Main Question: how do we attract more people to try out TVX's cleaning products?
 * Using Google Analytics, I examined users by country, engagement rate, time, and conversion to from visit to customer.
