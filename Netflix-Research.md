@@ -1,4 +1,4 @@
-# Explorative Data Analysis of Netflix Content.md
+# Explorative Data Analysis of Netflix Content
 Main Directive: Exploring Netflix's Content Choices
 * Using XXX I did XXX thing.
 * one more line of description
