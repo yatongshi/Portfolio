@@ -20,7 +20,7 @@ Research Assistant at Marine Policy Center, Woods Hole Oceanographic Institute 0
 #### 2. <a href="https://yatongshi.github.io/Portfolio/IBM-HR-Analytics-Employee-Attrition-and-Performance.html"> Kaggle Exploratory for TVX product data </a> 
 * overview
 
-#### 3. IBM HR Analytics Employee Attrition and Performance
+#### 3. <a href="https://yatongshi.github.io/Portfolio/IBM-HR-Analytics-Employee-Attrition-and-Performance.html"> IBM HR Analytics Employee Attrition and Performance </a>
 * overview
 
 #### 4. <a href="https://yatongshi.github.io/Portfolio/Netflix-Research.html"> Explorative Data Analysis of Netflix Content </a>
