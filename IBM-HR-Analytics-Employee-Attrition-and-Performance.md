@@ -3,7 +3,7 @@
 
 _Main Directive: What Factors Influence Employee Attrition Rate at IBM?_
 
-*_Using xxx software to do xxx thing, i created xx analysis on xxx data._
+* Using xxx software to do xxx thing, i created xx analysis on xxx data.
 * Utilizing these results, I presented key points and proposed potential measures for IBM to implement in order to lower IBM's employee attrition rate as a whole. <br />
   
 # Exploring Attrition Rate and Factors
