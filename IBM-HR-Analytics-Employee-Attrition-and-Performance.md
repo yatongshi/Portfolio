@@ -2,8 +2,8 @@
 ### Here is a link to the full project code and repository: <a href="https://github.com/yatongshi/IBM-HR-Analytics-Employee-Attrition-and-Performance/tree/main"> IBM HR Analytics Employee Attrition and Prediction </a>
 
 _Main Directive: What Factors Influence Employee Attrition Rate at IBM?_
-* xxx
-* (add another line of description here)<br />
+*_Using xxx software to do xxx thing, i created xx analysis on xxx data._
+* Utilizing these results, I presented key points and proposed potential measures for IBM to implement in order to lower IBM's employee attrition rate as a whole. <br />
   
 # Exploring Attrition Rate and Factors
 
@@ -65,8 +65,7 @@ From the comparison, the data does not show much correlation between travel freq
 
 From the previous analysis, we conclude that the employees who are unable to balance work with life are the most frequent group leaving the company 
 
-### From this research I derived new key findings that can lead to xxx:
-Based on our previous analyses, we can say that the most important factors affecting employees attrition are:
+### Based on our previous analyses, we can say that the most important factors affecting employees attrition are:
 
   1. Monthly Salary: We found that employees with salaries of less than 5K are the most likely to leave their jobs
   2. Work Enviroment: Most of the employees leave their jobs when they are not comfortable in their work space.
