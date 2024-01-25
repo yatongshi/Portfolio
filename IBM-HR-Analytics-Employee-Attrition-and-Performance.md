@@ -2,6 +2,7 @@
 ### Here is a link to the full project code and repository: <a href="https://github.com/yatongshi/IBM-HR-Analytics-Employee-Attrition-and-Performance/tree/main"> IBM HR Analytics Employee Attrition and Prediction </a>
 
 _Main Directive: What Factors Influence Employee Attrition Rate at IBM?_
+
 *_Using xxx software to do xxx thing, i created xx analysis on xxx data._
 * Utilizing these results, I presented key points and proposed potential measures for IBM to implement in order to lower IBM's employee attrition rate as a whole. <br />
   
