@@ -43,10 +43,11 @@ From the graph above, we can tell there is a increase of attrition around the fi
 
 To further understand, we will look at the specific breakdown of years with high attrition.
   1. The attributed employees that are first year with current Manager
-     
-    ![Portfolio](images/attrition-reason-1.png)
-    ![Portfolio](images/attrition-reason-2.png)
-    ![Portfolio](images/attrition-reason-3.png)
+
+      ![Portfolio](images/attrition-reason-1.png)
+      ![Portfolio](images/attrition-reason-2.png)
+      ![Portfolio](images/attrition-reason-3.png)
+
 
 The three graphs demonstrate a consistent trend that Laboratory Technician has a high attrition rate in general. At the same time, there is spike of attribution in sales executives and research scientist in their third year with the managers. For the future to lower attrition, IBM could provide check-in and incentives for sales executives and research scientists particularly at their third years. There seems to be a systematic reasoning with high attrition rate in the role of laboratory technician, which is worth investigating more.
 
@@ -54,13 +55,13 @@ The three graphs demonstrate a consistent trend that Laboratory Technician has a
 
 What is the relationship between overtime and attrition? 
 
-    ![Portfolio](images/overtime-attrition.png)
-
+  ![Portfolio](images/overtime-attrition.png)
+    
 ADD COMMENT
 
 How does the amount of business travel affect attrition?
 
-    ![Portfolio](images/business-travel.png)
+   ![Portfolio](images/business-travel.png)
 
 From the comparison, the data does not show much correlation between travel frequency and attrition. Later I can further investigate by calculating the percentage of attrition and comparing them again.
 
