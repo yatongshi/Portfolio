@@ -1,8 +1,11 @@
 # Explorative Data Analysis of Netflix Content
+### Here is a link to the full project code and repository: <a href="https://github.com/yatongshi/Explorative-Data-Analysis-of-Netflix-Contents"> Explorative Data Analysis of Netflix Content </a>
 Main Directive: Exploring Netflix's Content Choices
 * Using XXX I did XXX thing.
 * one more line of description
 * Below are the questions I explored.
+
+
 
 1. What are the main ratings that are prevalent in Netflix?
 
