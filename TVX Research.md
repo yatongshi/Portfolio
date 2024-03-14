@@ -2,8 +2,7 @@
 ### Here is a link to the full project code and repository: <a href="https://github.com/yatongshi/TVX-Research/tree/main"> TVX </a>
 
 _Main Question: how do we attract more people to try out TVX's cleaning products?_
-* Using Google Analytics, I examined users by country, engagement rate, time, and conversion to from visit to customer.
-* (add another line of description here)<br />
+* Using Google Analytics data, I examined users by country, engagement rate, time, and conversion to from visit to customer. <br />
   
 ### Results of Report
 From this research I derived new key findings that can lead to higher engagement rate, return and revenue for the company. <br />
@@ -44,3 +43,25 @@ Graphing the user channel percentage. Looking at the percentage of User Channel,
 
 ![TVX-Research](images/output_63_0.png)
 <br>
+
+Conclusion:
+We are able to examine potential ways to attract new customers through Google Analytics data from 01/01/2023 to 12/13/2023. Here are some business suggestions to increase revenue in the future:
+
+Create a Referral Program: establish a referral program leveraging the observation that the Referral channel accounts for less than 1% but has shown to be highly effective in both Conversion Rate and Average Engagement Time. Encourage existing customers to refer others, focusing on building a network of satisfied customers who can contribute to increased sales.
+
+Target New Markets and Countries: identify and target new markets based on the observation that there are countries with high engagement and interest in the products. Expand marketing efforts to these untapped regions, tailoring strategies to meet the specific needs and preferences of each market. I included the countries that show the overall greatest interest in the following list 1.
+
+Implement Website Translations: address the discrepancy between Users and Conversions in Vietnam and Indonesia by implementing website translations. Build a feature for auto-translation to enhance the user experience, especially in non-English speaking countries, where there is a notable difference in engagement rates. 
+
+Prioritize Keyword Optimization for Organic Search: continue prioritizing keyword optimization for Organic Search: Organic Search plays a significant role, contributing 44.6% of all User Channels. Focus on SEO strategies to maintain and improve visibility, ensuring the company remains prominent in search engine results to drive organic traffic.
+
+List 1:
+North America: Mexico Canada United States
+Europe: Italy Portugal Netherlands Germany Spain United Kingdom Russia Turkey (Türkiye)
+Asia: Thailand Israel South Korea United Arab Emirates Philippines India Australia Singapore Malaysia Qatar Saudi Arabia
+Africa: Nigeria South Africa Egypt
+Oceania: New Zealand
+South America: Brazil
+
+
+
